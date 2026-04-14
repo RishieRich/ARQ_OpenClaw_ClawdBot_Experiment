@@ -4,5 +4,5 @@ This is an experiment project about OpenClaw.
 
 We are going to deploy agents here.
 
-## Date : 13/04/2026
+## Date : 14/04/2026
 Creating a basic telegram experimenting example!
